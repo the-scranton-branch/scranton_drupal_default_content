@@ -1,3 +1,7 @@
 name: Scranton Drupal Default Content
+description: "Default Content for Scranton Drupal"
 type: module
 core_version_requirement: ^9 || ^10
+package: "Scranton Drupal"
+dependencies:
+  - default_content
