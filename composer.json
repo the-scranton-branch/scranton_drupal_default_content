@@ -1,0 +1,9 @@
+{
+  "name": "the-scranton-branch/scranton_drupal_default_content",
+  "description": "A custom Drupal module for providing default content",
+  "type": "drupal-module",
+  "minimum-stability": "stable",
+  "require": {
+    "drupal/core": "^9 || ^10"
+  }
+}
